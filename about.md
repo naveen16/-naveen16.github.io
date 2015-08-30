@@ -8,4 +8,4 @@ I am a student at The University Of Texas at Austin studying Computer Science.
 
 ### Contact me
 
-[email@domain.com](mailto:naveen.rajshekhar@utexas.edu)
+[naveen.rajshekhar@utexas.edu](mailto:email@domain.com)
