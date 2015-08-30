@@ -11,6 +11,6 @@ In the two lectures that have been held, we mainly went over basic c plus plus c
 
 Tip of the week:
 
-<a href="http://www.mkyong.com/">mykong</a> 
+<a href="http://www.mkyong.com/">http://www.mkyong.com/</a> 
 
 Great website for learning anything Computer Science related.
