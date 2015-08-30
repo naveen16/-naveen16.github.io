@@ -11,4 +11,4 @@ Tip of the week:
 
 http://www.mkyong.com/
 
-Great website for learning anything computer science related.
+Great website for learning anything Computer Science related.
