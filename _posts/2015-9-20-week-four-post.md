@@ -23,4 +23,4 @@ Tip of the week:
 
 <a href="http://www.cplusplus.com/">http://www.cplusplus.com/</a> 
 
-Great website for learning about c++.
+Great website for learning about c++. 
