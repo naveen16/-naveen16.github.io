@@ -14,7 +14,7 @@ which are preparing us for the real world tech industry.
 
 Overall this class has stayed steady in the amount of work. Projects are given for 10 days and they have all been 
 manageable in that time frame. There is one more project and the second test left in this course, in addition to the 
-quizzes. 
+quizzes.  
 
 Tip of the week:
 
