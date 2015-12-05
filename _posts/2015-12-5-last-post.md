@@ -1,0 +1,25 @@
+---
+layout: post
+title: Last Post!
+---
+
+In the last week of the class we had the final test of the course. It was similar to that of the first one and it was
+representative of the material we had covered in class. For the first test I didnt prepare very much because it was just
+writing algirhtms which doesn't require too much studying. For this second test I went through all of the examples and
+exercises on the class github page. This approach seems to be the way to go, because I absorbed a lot more of the information
+and material that we would be tested on. 
+
+The class was manageable and very structured. The whole syllabus and schedule was planned out perfectly and we 
+covered every piece of materieal we intended to. Overall I am confident I have gained a great amount of knowledge 
+and experience in c++. In addition to learning c++, I learned a lot of new software tools. I became very familiar with 
+github, travis CI, and many other software development tools. 
+
+Overall I would highly reccomend this class to all computer science major students who are looking to learn object oriented
+concepts, and who also want to learn the tools and practices that big tech companies use for software development.
+I believe this class has more than prepared me to work in the tech industry of today.
+
+Tip of the week:
+
+<a href="https://www.atlassian.com/git/tutorials/">https://www.atlassian.com/git/tutorials/</a>
+
+Great website for learning about github tools.
