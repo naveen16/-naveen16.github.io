@@ -3,11 +3,11 @@ layout: post
 title: Week One Post!
 ---
 
-The first two classes of object oriented programming were interesting. Professor Downing has a unique style of teaching. He likes to call on students to answer questions on the topic we are studying rather than him just explaining everything directly to the class. Each student called on must go through the process of solving the given problem out loud and to the class. Professor Downing doesn't expect everyone to know the answer to all of his questions, and he is very helpful when explaining the correct answers. I believe that this format of teaching allows the students to absorb more information due to the fact that they are forced to pay close attention to the lecture. 
+In the first lecture of this course, we went over the syllabus and started talking about the first project. The first project is trivial in nature, but the main point of it is to get used to all the different tools we will be using in the course. This class is almost the same as Professor Downing's object oriented programming. Since that class was very valuable to my progression as a programmer, I believe this course will be a success as well. 
 
 Overall the class seems to be detailed and time consuming, and I believe this will end up being a great class to prepare me for the real world. To become a good programmer you need to practice coding all the time, and this course will force all of us to do so. 
 
-In the two lectures that have been held, we mainly went over basic c++ code and learned the java equivalent code, since java is a prerequisite for this class. It was very helpful in learning the syntax and semantics of c++. We learned basic imports, print statements, and testing mechanisms. Even though we are just beginning to learn c++, I already feel like I am getting comfortable with the new language. Learning a language as thorougly and effectively as we are in this course will definately be beneficial to me in the real world.
+For the first project we will be using python to code the solution. I have used python in the past but only for minimal projects, so I believe that this will be a good learning experience for me. The problem at hand is described by the Collatz conjecture, for every odd number you multiply it by 3 and add 1, and for every even number you divide it by 2. You repeat this process until you reach 1. The cycle length of a certain input is the number of steps it takes to reach 1. Our project is to implement a function to calculate the max cycle length for a range of inputs. Aditionally we need to optimize the solution by implementing a caching mechanism. 
 
 Tip of the week:
 
