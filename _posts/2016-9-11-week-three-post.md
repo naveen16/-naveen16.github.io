@@ -9,14 +9,9 @@ were so strict, we had to be meticulous in following all of the instructions. Th
 am learning a lot about it and am becoming very familiar with all of its uses. This bodes well for my future work 
 in the industry where companies expect you to be familiar with tools like this. 
 
-One of the lectures this week was done by a former student of Professor Downing. He works at Bloomberg currently and 
-he came to give us tips about working in the industry, resume tips, and his daily routines. The tips he gave about
-resume's were very informative and enlightening. He is a resume reviewer at Bloomberg, so his opinions were very
-credible. This was a great lecture to help all of us students learn more about the industry, and to learn tips 
-that will help us succeed in the long run. This gives me more confidence that this class will be the most beneficial 
-class at UT in terms of learning about how to succeed in the real world.
+The main issue I had with the first project was getting it accepted on Sphere Online Judge. My code was passing all of my test cases and inputs, so I had the correct logic. After trial and error I figured out that Sphere was giving in blank lines as input, so I had to change my code to accommodate that. After adding that fix, my code was accepted on Sphere. The tough thing about Sphere is that it doesnt tell you what your error is or what input is causing the error, so you have to use trial and error to fix bugs. 
 
-Overal the class has stayed the same in structure of the lectures. Professor Downing still calls on students to 
+Overal the class has stayed the same in structure of the lectures. Professor Fraij calls on students to 
 answer questions and to explain concepts. The daily quizzes are still basic questions from the reading, so if you
 do the reading you will be good to go for the quizzes. 
 
