@@ -9,7 +9,7 @@ Other than the project, in class we have been learning about refactoring in java
 
 The course is almost over, we only have one test and a few quizzes. I can confidently say that my programming skills have dramatically increased in this course. Aside from getting more familiar with python, in the website project I learned many other tools that will be of great help to me in the real world tech industry. 
 
-Tip of the week: 
+Tip of the week:
 
 <a href="https://www.sciencedaily.com/news/computers_math/computer_science/">https://www.sciencedaily.com/news/computers_math/computer_science/</a>
 
