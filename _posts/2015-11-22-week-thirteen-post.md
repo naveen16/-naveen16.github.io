@@ -3,23 +3,14 @@ layout: post
 title: Week Thirteen Post!
 ---
 
-In this week of the class we had our final project due, Life. In this project we had to simulate Conway's game of
-life using abstract classes. This project was quite similar to the previous project, Darwin, but in this one we had
-to make use of inheritence. The overall solution to the problem was not very difficult, but the issues we dealt
-with using inheritence were a bit troublesome. In java inheritence is well defined and intuitively implemented.
-With c++ there are varioius situations that must be considered before confirming you have implemented your 
-inheritence correctly. 
+In this week of the class we had our final project due. We had to implement a search functionality to our website where the user can enter a search query on the home page and it will return a list of partial and direct hits to the query. The results are displayed in a data table. Other than the search functionality, we had to use another teams api in an interesting way. These were the main technical aspects we had to add to the website for this phase of the project. The rest of the work was preparing a presentation and critiquing the other teams api. 
 
-In lecture we have been going through different examples of inheritence and comparing those ideas to that of 
-java. Overall, it seems that in java inheritence is a lot more simple compared to c++. The lecture format is still
-the same, and professor Downing calls on students to answer questions. This keeps everyone active and paying 
-attention to the lecture.
+Other than the project, in class we have been learning about refactoring in java. In the lecture, the professor has been going over java code for a Store class to display the benefits of refactorying. The format of the lecture is the same, he calls on students to go over certain lines of code. This keeps everyone engaged and participating.
 
-All that is left in this course is a few quizzes and the second test. Most of the material is covered, and I can
-confidently say that my c++ skills and understanding have increased largely through the course of the semester. 
+The course is almost over, we only have one test and a few quizzes. I can confidently say that my programming skills have dramatically increased in this course. Aside from getting more familiar with python, in the website project I learned many other tools that will be of great help to me in the real world tech industry. 
 
 Tip of the week:
 
-<a href="http://en.cppreference.com/w/cpp/language/destructor">http://en.cppreference.com/w/cpp/language/destructor</a>
+<a href="https://www.sciencedaily.com/news/computers_math/computer_science/">https://www.sciencedaily.com/news/computers_math/computer_science/</a>
 
-Great website for learning about c++ destructors.
+Great website to learn about the latest research in Computer Science.
