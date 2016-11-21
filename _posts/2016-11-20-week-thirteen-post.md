@@ -13,4 +13,4 @@ Tip of the week:
 
 <a href="https://www.sciencedaily.com/news/computers_math/computer_science/">https://www.sciencedaily.com/news/computers_math/computer_science/</a>
 
-Great website to learn about the latest research in Computer Science.
+Great website to learn about the latest research in Computer Science. 
